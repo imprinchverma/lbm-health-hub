@@ -1,4 +1,4 @@
-# Health Data Hub (Flutter Assignment)
+# Health Data Hub 
 
 Pixel-close Flutter UI replication of the Dots-In **Health Data Hub** designs.
 
