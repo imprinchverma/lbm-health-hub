@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": "Alex",
+    "focus": ["fitness", "heart", "blood", "genomics"]
+  },
+  "overview": {
+    "immuneScore": 30,
+    "hyperprolactinemiaScore": 95
+  },
+  "organs": [
+    {"id": "heart", "score": 76},
+    {"id": "lungs", "score": 66},
+    {"id": "kidneys", "score": 72},
+    {"id": "brain", "score": 81},
+    {"id": "bones", "score": 68},
+    {"id": "stomach", "score": 74},
+    {"id": "intestine", "score": 70}
+  ]
+}
