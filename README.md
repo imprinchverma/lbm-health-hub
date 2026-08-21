@@ -39,7 +39,3 @@ lib/
 assets/images|data
 assignment_refs/   # design PDFs/previews (not shipped in release)
 ```
-
-## Design sources
-
-Assignment folders from Google Drive (Assignment 1 & 2). UI matched against exported section PDFs/previews under `assignment_refs/previews/`.
